@@ -10,9 +10,11 @@
    
    - :telescope: I am a Mechanical Engineering graduate but my biggest goal is improve myself in the software field.
 
-   - :seedling: Exploring Technical Content Writing.
+   - :seedling:  I love learning and using new technologies.
 
-   - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+   - :zap:  Details are very important to me.
+
+  - ⚡ I am good with mistakes. Every different mistake teaches something new.
   
 
 <!--
