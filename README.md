@@ -14,7 +14,7 @@
 
    - :zap:  Details are very important to me.
 
-  - ⚡ I am good with mistakes. Every different mistake teaches something new.
+   - 😄 I am good with mistakes. Every different mistake teaches something new.
   
 
 <!--
