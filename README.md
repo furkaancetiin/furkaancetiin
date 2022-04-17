@@ -8,7 +8,7 @@
 
 ### :woman_technologist: About Me :
    
-   - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+   - :telescope: I am a Mechanical Engineering graduate but my biggest goal is improve myself in the software field.
 
    - :seedling: Exploring Technical Content Writing.
 
