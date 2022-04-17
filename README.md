@@ -1,6 +1,10 @@
 <div align="center">
    <h3>Hi there 👋</h3><br>
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" height="250" width="350"/>
+   
+   ---
+
+### :woman_technologist: About Me :
 </div>
 
 <!--
